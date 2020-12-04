@@ -1,0 +1,16 @@
+CERTIFICACION INBOUND
+
+<!-- Begin: HubSpot Academy - Inbound (Nuevo) Badge -->
+<div class='academy-badge'>
+<a href='http://academy.hubspot.com/certification' title='Inbound (Nuevo)'>
+<img src='https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-badges/ef7e9a0c76b249a8ba9e582abb038d5b-1589293256794.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - Inbound (Nuevo) Badge -->
+
+
+
+insignia linkedin
+
+
+"{\"localizedFirstName\":\"Esteban\",\"localizedLastName\":\"Sologuren Jamette\",\"localizedProfiles\":[{\"vanityName\":\"seoguren\",\"firstName\":\"Esteban\",\"lastName\":\"Sologuren Jamette\",\"profileUrl\":\"https://cl.linkedin.com/in/seoguren\",\"displayLocale\":\"Español\",\"encodedId\":null,\"locale\":\"es_ES\",\"canonicalName\":null}],\"pageKey\":\"profile-badge-create\",\"badgeVersion\":\"v1\",\"jsBeaconUrl\":\"https://www.linkedin.com/analytics/noauthtracker\",\"defaultBadgeType\":null,\"canonicalUrl\":\"https://www.linkedin.com/badges/profile/create?vanityname=seoguren&preferredlocale=es_ES\",\"cdnJsPath\":\"https://platform.linkedin.com/badges/js/profile.js\"}"

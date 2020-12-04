@@ -1,0 +1,12 @@
+		    <div id= "footer1">
+                        <a href="tel:+56992465144">LLÁMANOS AL +56987248927</a>
+                    </div>
+               
+            
+                    <div id= "footer2">
+                       <a href="mailto:info@tgif.com" class="btn btn-info" role="button">secgas3@gmail.com</a>
+                    </div>
+
+                    <div id= "footer3">
+                        <a href="whatsapp:+56987248927//send">ENVÍANOS UN WHATTSAP AQUÍ</a>
+                    </div>

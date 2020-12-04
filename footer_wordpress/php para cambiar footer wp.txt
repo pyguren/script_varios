@@ -1,0 +1,44 @@
+
+
+<div class="by">
+                    <?php esc_html_e( 'Developed By ', 'Seoguren linkedin.com/seoguren', 'Whattsap +56- 987248927'); ?>
+                    <a href="<?php echo esc_url( 'https://seoguren.com/' ); ?>" target="_blank">
+                    	<?php esc_html_e( 'Seoguren'); ?>
+                    </a>                       
+                    <?php esc_html_e( 'Contact:' ); ?>
+                    <a href="<?php echo esc_url( __( 'https://www.linkedin.com/in/seoguren/' ) ); ?>" target="_blank"><?php esc_html_e( 'linkedin' ); ?></a>
+                    <a href="<?php echo esc_url( __( 'https://api.whatsapp.com/send?phone=56987248927&text=Buenas,%20quisiera%20contactarme%20con%20Seoguren' ) ); ?>" target="_blank"><?php esc_html_e( 'Whattsap +56- 987248927' ); ?></a>
+                    <?php
+	                    
+                    ?>
+	</div>
+
+
+Gasfiterpex.cl
+
+$copyright_text = get_theme_mod( 'construction_landing_page_footer_copyright_text' ); ?>
+		<div class="site-info">
+			<div class="container">
+                <h2>Desarrollo web y posicionamiento Seo</h2>
+				<div class="by">
+                         <?php esc_html_e( 'Developed By ', 'Seoguren linkedin.com/seoguren'); ?>
+                         <a href="<?php echo esc_url( 'https://seoguren.com/' ); ?>" target="_blank">
+                              <?php esc_html_e( 'Seoguren'); ?>
+                         </a>                       
+                         <?php esc_html_e( 'Contact:' ); ?>
+                         <a href="<?php echo esc_url( __( 'https://www.linkedin.com/in/seoguren/' ) ); ?>" target="_blank"><?php esc_html_e( 'linkedin' ); ?></a>
+                         
+				</div>
+			</div>
+		</div>
+	</footer>
+	<div class="overlay"></div>
+
+
+
+     <div class="overlay">
+	    <a href="<?php echo esc_url( 'https://tecnicodecalefon.cl' ); ?>" target="_blank">
+                    	<?php esc_html_e( 'tecnicodecalefon.cl'); ?>
+        <a href="<?php echo esc_url( 'https://elreydelpastelon.cl' ); ?>" target="_blank">
+                    	<?php esc_html_e( 'elreydelpastelon.cl'); ?>
+	</div>

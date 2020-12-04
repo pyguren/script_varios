@@ -1,0 +1,10 @@
+/* ////////////////////////////////Jquery//////////////////////////// */
+
+@media only screen and (orientation:landscape){
+    #color{
+        background-color: lightblue;
+    }
+    #color2{
+        background-color: lightgreen;
+    }
+}
