@@ -1,0 +1,20 @@
+Primero ejecuto el archivo index para crear el localhost:5000
+cd desktop/proyecto_python/src
+python index.py
+----------------------------
+
+python -m venv venv
+Con este comando se crea todo el entorno de python solo para esta app
+---------------------------
+luego entro a venv/Scripts y comando pip install flask
+
+luego entro a lib/site-package y confirmo que exista flask
+
+luego vuelvo a venv/Scripts>python ../../src/index.py
+Aqui estamos ejecutando python que esta dentro del entorno virtual
+
+---------------------------
+
+
+
+python -m http.server
